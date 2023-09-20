@@ -14,7 +14,7 @@
 - 🤔 I’m currently reading [Storytelling with data (https://github.com/Saurav6789/Books-/blob/master/storytelling-with-data-cole-nussbaumer-knaflic.pdf). Check it out if interested.
 <div align="center">
 	<br>
-	<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200" height="200">
+	<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="850" height="500">
 </div>
 
 
