@@ -1,7 +1,36 @@
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/0/7ecMJBKgrixVYsD2DXcDB75jXrRa0Vyl6vFF0PeP9Ew/recent-activity/AZoi9I1NKmKsBKwIMZU4ArkIML1Rz9wdduhiVZIoGwM/PEtNEEtjsWBSAPYpH9waFmD272zpuMMQibKl6lSB51c_badge.svg)](https://repography.com)
-[![Timeline graph](https://images.repography.com/0/7ecMJBKgrixVYsD2DXcDB75jXrRa0Vyl6vFF0PeP9Ew/recent-activity/AZoi9I1NKmKsBKwIMZU4ArkIML1Rz9wdduhiVZIoGwM/PEtNEEtjsWBSAPYpH9waFmD272zpuMMQibKl6lSB51c_timeline.svg)](https://github.com/_/mi readme/commits)
-[![Issue status graph](https://images.repography.com/0/7ecMJBKgrixVYsD2DXcDB75jXrRa0Vyl6vFF0PeP9Ew/recent-activity/AZoi9I1NKmKsBKwIMZU4ArkIML1Rz9wdduhiVZIoGwM/PEtNEEtjsWBSAPYpH9waFmD272zpuMMQibKl6lSB51c_issues.svg)](https://github.com/_/mi readme/issues)
-[![Pull request status graph](https://images.repography.com/0/7ecMJBKgrixVYsD2DXcDB75jXrRa0Vyl6vFF0PeP9Ew/recent-activity/AZoi9I1NKmKsBKwIMZU4ArkIML1Rz9wdduhiVZIoGwM/PEtNEEtjsWBSAPYpH9waFmD272zpuMMQibKl6lSB51c_prs.svg)](https://github.com/_/mi readme/pulls)
-[![Trending topics](https://images.repography.com/0/7ecMJBKgrixVYsD2DXcDB75jXrRa0Vyl6vFF0PeP9Ew/recent-activity/AZoi9I1NKmKsBKwIMZU4ArkIML1Rz9wdduhiVZIoGwM/PEtNEEtjsWBSAPYpH9waFmD272zpuMMQibKl6lSB51c_words.svg)](https://github.com/_/mi readme/commits)
-[![Top contributors](https://images.repography.com/0/7ecMJBKgrixVYsD2DXcDB75jXrRa0Vyl6vFF0PeP9Ew/recent-activity/AZoi9I1NKmKsBKwIMZU4ArkIML1Rz9wdduhiVZIoGwM/PEtNEEtjsWBSAPYpH9waFmD272zpuMMQibKl6lSB51c_users.svg)](https://github.com/_/mi readme/graphs/contributors)
-[![Activity map](https://images.repography.com/0/7ecMJBKgrixVYsD2DXcDB75jXrRa0Vyl6vFF0PeP9Ew/recent-activity/AZoi9I1NKmKsBKwIMZU4ArkIML1Rz9wdduhiVZIoGwM/PEtNEEtjsWBSAPYpH9waFmD272zpuMMQibKl6lSB51c_map.svg)](https://github.com/_/mi readme/commits)
+# Alfred Sander
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falfredsander%2Falfredsander&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/AlfredMamaniVa1)](https://twitter.com/AlfredMamaniVa1)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-mamani-valdez/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/alfred5ander/)](https://www.instagram.com/alfred5ander)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alfredmamanivaldez@gmail.com)
+
+[![Github](https://img.shields.io/github/followers/alfredsander?label=Follow&style=social)](https://github.com/alfredsander)
+
+- 👋Hi, I am Alfred Sander and Industrial Electronics Technician and Graduate of Henry's Data Science bootcamp.
+- 🏁 My goal is to work in the world of data as a Data Analyst, and my particular interests are the sports and/or electronics sector. ❤
+- 🌲I work daily with the following tools: Python, Pandas, MySQL, NoSQL, Power BI, Streamlit, Docker, etc. 👩‍💻
+- 🤔 I’m currently reading [Storytelling with data (https://github.com/Saurav6789/Books-/blob/master/storytelling-with-data-cole-nussbaumer-knaflic.pdf). Check it out if interested.
+
+
+
+### 🖥 Skills
+
+- Programming
+- Data Analysis
+- Data Managment
+- Storytelling
+- Machine Learning
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=Power-BI&color=353535)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfredsander&show_icons=true&locale=en&layout=compact" alt="alfredsander" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=alfredsander&" alt="alfredsander" />
+</div>
+
+
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
