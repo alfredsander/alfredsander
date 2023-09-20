@@ -12,7 +12,10 @@
 - 🏁 My goal is to work in the world of data as a Data Analyst, and my particular interests are the sports and/or electronics sector. ❤
 - 🌲I work daily with the following tools: Python, Pandas, MySQL, NoSQL, Power BI, Streamlit, Docker, etc. 👩‍💻
 - 🤔 I’m currently reading [Storytelling with data (https://github.com/Saurav6789/Books-/blob/master/storytelling-with-data-cole-nussbaumer-knaflic.pdf). Check it out if interested.
-
+<div align="center">
+	<br>
+	<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200" height="200">
+</div>
 
 
 ### 🖥 Skills
